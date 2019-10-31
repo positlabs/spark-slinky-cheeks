@@ -2,9 +2,9 @@
 
 Explore decoupled positioning (having elements follow the face in a natural way) and some light SDF masking.
 
-[Tutorial on YouTube]()
+[Tutorial on YouTube](https://www.youtube.com/watch?v=D9WjrNPj1_A)
 
-[![screenshot](./screenshot.jpg)]()
+[![screenshot](./screenshot.jpg)](https://www.youtube.com/watch?v=D9WjrNPj1_A)
 
 
 ## Resources
