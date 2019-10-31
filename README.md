@@ -2,6 +2,8 @@
 
 Explore decoupled positioning (having elements follow the face in a natural way) and some light SDF masking.
 
+[Try SlinkyCheeks on Instagram](https://www.instagram.com/a/r/?effect_id=406836336626547)
+
 [Tutorial on YouTube](https://www.youtube.com/watch?v=D9WjrNPj1_A)
 
 [![screenshot](./screenshot.jpg)](https://www.youtube.com/watch?v=D9WjrNPj1_A)
